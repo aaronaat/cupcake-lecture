@@ -1,0 +1,25 @@
+body {
+  font-family: 'Rubik', sans-serif;
+  color: #022a31;
+  text-align: center;
+  background-color: #66cccc;
+}
+h1 {
+  color: #66cccc;
+  background-color: #ffffff;
+}
+.intro {
+  border-style: ridge;
+  border-width:4px;
+  border-color: #4298f4;
+}
+p.flashy {
+  background-color: #ffffff;
+  color: #ff4040;
+  font-style: italic;
+}
+.best {
+  border-style: dotted;
+  border-width: 4px;
+  border-color: #014351;
+}
