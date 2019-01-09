@@ -13,7 +13,7 @@ h1 {
   border-width:4px;
   border-color: #4298f4;
 }
-p.flashy {
+.flashy {
   background-color: #ffffff;
   color: #ff4040;
   font-style: italic;
